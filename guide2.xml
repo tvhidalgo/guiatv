@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 2">
+    <display-name lang="es">Canal 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 5">
+    <display-name lang="es">Canal 5</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <programme start="20171207010000 -0600" stop="20171207013000 -0600" channel="Canal 2">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://media.entutele.com/shows/0a/0a96595a52e38ba209d36b34b1dddc9d.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207013000 -0600" stop="20171207020000 -0600" channel="Canal 2">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20171207020000 -0600" stop="20171207023000 -0600" channel="Canal 2">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20171207023000 -0600" stop="20171207030000 -0600" channel="Canal 2">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20171207030000 -0600" stop="20171207033000 -0600" channel="Canal 2">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20171207033000 -0600" stop="20171207040000 -0600" channel="Canal 2">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20171207040000 -0600" stop="20171207043000 -0600" channel="Canal 2">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20171207043000 -0600" stop="20171207050000 -0600" channel="Canal 2">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20171207050000 -0600" stop="20171207053000 -0600" channel="Canal 2">
+    <title lang="es">Consejos naturales</title>
+    <desc lang="es">Un espacio en el que se brindan los mejores consejos naturales para aplicar en nuestros días. En cada ocasión, una guía con las formas más saludables de alimentación, ejercicios físicos y otros buenos hábitos que redundan en una superadora calidad de vida(n)</desc>
+    <category lang="es">Hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20171207053000 -0600" stop="20171207060000 -0600" channel="Canal 2">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20171207060000 -0600" stop="20171207063000 -0600" channel="Canal 2">
+    <title lang="es">Las noticias danielle dithurbide</title>
+    <desc lang="es">Espacio informativo que te brinda todo lo que necesitas saber antes de salir de casa. Se trata de un rápido paseo por México y el mundo de acuerdo con los acontecimientos que se han suscitado. Números de relevancia, las tendencias en redes sociales e historias secretas(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207063000 -0600" stop="20171207080000 -0600" channel="Canal 2">
+    <title lang="es">Despierta con Carlos Loret de Mola</title>
+    <desc lang="es">Transmisiones especiales de Noticieros Televisa sobre los acontecimientos más relevantes(n)</desc>
+    <credits>
+      <actor>Carlos Loret De Mola</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+  </programme>
+  <programme start="20171207080000 -0600" stop="20171207090000 -0600" channel="Canal 2">
+    <title lang="es">Al aire paola rojas</title>
+    <desc lang="es">Revista informativa con temas interesantes que a veces no se abordan en los noticiarios(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207090000 -0600" stop="20171207120000 -0600" channel="Canal 2">
+    <title lang="es">Hoy</title>
+    <desc lang="es">El programa de revista para las amas de casa que cuenta con secciones de cocina, salud, belleza, sexo, yoga, horóscopos e información del mundo del espectáculo(n)</desc>
+    <credits>
+      <actor>Raúl Araiza Herrera</actor>
+      <actor>Galilea Montijo</actor>
+      <actor>Andrea Legarreta</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <category lang="es">Talk Show</category>
+    <icon src="https://media.entutele.com/shows/fb/fb64e1c97ef3a1cbf296f022e4b9a349.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207120000 -0600" stop="20171207133000 -0600" channel="Canal 2">
+    <title lang="es">Lo que la vida me robó</title>
+    <desc lang="es">El amor de Montserrat se verá truncado por la avaricia de su madre, Graciela Grancinti que hará hasta lo imposible por conseguir que su hija se case con el hombre que le ayude a mantener un estatus social que están a punto de perder(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207133000 -0600" stop="20171207143000 -0600" channel="Canal 2">
+    <title lang="es">Cuéntamelo ya</title>
+    <desc lang="es">Como si estuvieras en la sala de una casa o ante la mesa de un café disfruta con cuatro bellezas los comentarios, entrevistas y reportajes sobre todo lo que pasa en el mundo de los espectáculos así como en diversas cuestiones de interés general como salud, belleza, deportes, estilo de vida, moda, sexo, viajes y cine(n)</desc>
+    <credits>
+      <actor>Roxana Castellanos</actor>
+      <actor>Cynthia Urias</actor>
+      <actor>Jimena Gállego</actor>
+      <actor>Lola García</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <category lang="es">Talk Show</category>
+    <icon src="https://media.entutele.com/shows/42/429bbb0bef1e52c82133474ce15a33c4.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/29/29a6507e1d8a4185e13673c5df3acc76.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/29/29a6507e1d8a4185e13673c5df3acc76.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207143000 -0600" stop="20171207150000 -0600" channel="Canal 2">
+    <title lang="es">El noticiero con karla iberia s.</title>
+    <desc lang="es">Programa informative que brinda lo más destacado de los acontecimientos recientes a nivel nacional e internacional(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207150000 -0600" stop="20171207153000 -0600" channel="Canal 2">
+    <title lang="es">Chavo del ocho</title>
+    <desc lang="es">Serie cómica sobre las divertidas aventuras de El Chavo y sus amiguitos de la vecindad(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207153000 -0600" stop="20171207163000 -0600" channel="Canal 2">
+    <title lang="es">María de todos los ángeles</title>
+    <desc lang="es">María de todos los Ángeles es la historia de una muchacha que sueña con encontrar al amor de su vida. Desilusionada del amor, invoca a todos los ángeles de la corte celestial para encontrar al ser amado, estos se le revelan en sueños dándole señales para encontrarlo, pero siempre interpreta las señales de manera equivocada, hasta que un día conoce a su vecino 'Albertano Santacruz', un chico romántico que pretende ser cantante de la onda grupera(n)</desc>
+    <credits>
+      <actor>Alma Cero</actor>
+      <actor>Ariel Miramontes</actor>
+      <actor>Montserrat Marañón</actor>
+      <actor>Mara Escalante</actor>
+      <actor>Carlos Cobos</actor>
+    </credits>
+    <category lang="es">Telenovelas</category>
+    <icon src="https://media.entutele.com/shows/3d/3daa09d256708f144612c0c5f2c1028a.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/39/39381518f6ce3c49de2877482c1a26ce.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/39/39381518f6ce3c49de2877482c1a26ce.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/85/85529647f53d707104c367828917ef16.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/85/85529647f53d707104c367828917ef16.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/39/39abbd5f0e711a4b10e65d5e33074251.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/39/39abbd5f0e711a4b10e65d5e33074251.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/e5/e5a955bfdac2177e3cd3ac305696edf8.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/e5/e5a955bfdac2177e3cd3ac305696edf8.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207163000 -0600" stop="20171207173000 -0600" channel="Canal 2">
+    <title lang="es">Sin tu mirada</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207173000 -0600" stop="20171207183000 -0600" channel="Canal 2">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Los dichos populares son una manera de resumir los aprendizajes y lecciones de la vida que vivirán Isabel, su abuelo y Poncho, día con día, además de los clientes de su cafetería(n)</desc>
+    <credits>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Emmanuel Duprez</actor>
+      <actor>Genoveva Martínez</actor>
+    </credits>
+    <category lang="es">Telenovelas</category>
+    <category lang="es">Series</category>
+    <icon src="https://media.entutele.com/shows/b8/b877f3d0df56c1ffeb245c8a44155355.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/2b/2bc5fb899b719703411ca1915458a412.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/2b/2bc5fb899b719703411ca1915458a412.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207183000 -0600" stop="20171207193000 -0600" channel="Canal 2">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Historias de la vida real sobre violencia intrafamiliar, drogadicción, entre otros, se ven mitigadas por los milagros que concede la Virgen de Guadalupe. Basta con aparecer una rosa blanca, para comprender que han sido escuchadas las peticiones de los creyentes(n)</desc>
+    <credits>
+      <actor>José Ángel García</actor>
+      <actor>Marta Luna</actor>
+      <actor>Lorena Maza</actor>
+    </credits>
+    <category lang="es">Telenovelas</category>
+    <category lang="es">Series</category>
+    <icon src="https://media.entutele.com/shows/76/76fc89b5ee9053fae7447b43274ab4e3.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/09/09e7cb59e5084993d13602895a710659.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/09/09e7cb59e5084993d13602895a710659.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/35/3542f710ddb8a006f33f3b106adf28d2.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/35/3542f710ddb8a006f33f3b106adf28d2.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/c8/c8baf5bf8d8c6c4aef770e2092a84fdf.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/c8/c8baf5bf8d8c6c4aef770e2092a84fdf.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207193000 -0600" stop="20171207203000 -0600" channel="Canal 2">
+    <title lang="es">Me declaro culpable</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207203000 -0600" stop="20171207213000 -0600" channel="Canal 2">
+    <title lang="es">Papa a toda madre</title>
+    <desc lang="es">Un grupo de papás tendrán que llevar adelante las labores que, anteriormente estaban reservadas para las mujeres. Ellos deberán dividirse entre el trabajo, los quehaceres del hogar y criar adecuadamente a sus hijos(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207213000 -0600" stop="20171207223000 -0600" channel="Canal 2">
+    <title lang="es">Caer en tentación</title>
+    <desc lang="es">En esta nueva telenovela de Televisa que produce Giselle González (La candidata) y que ya se está grabando en México con las actuaciones protagónicas de Gabriel Soto, Adriana Louvier y Carlos Ferro, la actriz se adentra en la piel de Raquel, esposa y madre de dos adolescentes que ve peligrar su matrimonio cuando su marido se enamora de otra mujer(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207223000 -0600" stop="20171207230000 -0600" channel="Canal 2">
+    <title lang="es">En punto con: denise maerker vivo</title>
+    <desc lang="es">Espacio con toda la actualidad conducido Denise Maerker. La experimentada periodista y conductora no sólo brinda información, sino que pretende que el televidente entienda la noticia. Por eso, este ciclo deja de ser un mero noticiero e intenta llegar un poco más allá de los hechos que dejan la jornada(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207230000 -0600" stop="20171207233000 -0600" channel="Canal 2">
+    <title lang="es">Renta congelada</title>
+    <desc lang="es">Dos parejas de recién casados deben convivir en el mismo hogar. Una situación impensada para los cuatro, pero que tuvieron que afrontar después de haber sido víctimas de un fraude inmobiliario previo a sus bodas. Así las cosas, deberán poner lo mejor de cada uno para compartir el espacio común de la mejor manera posible(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207003000 -0600" stop="20171207010000 -0600" channel="Canal 5">
+    <title lang="es">Chicago pd</title>
+    <desc lang="es">La serie describe la vida cotidiana de varios policías uniformados y miembros de la unidad de inteligencia criminal asignado al Distrito 21 del Departamento de Policía de Chicago(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207010000 -0600" stop="20171207043000 -0600" channel="Canal 5">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20171207043000 -0600" stop="20171207050000 -0600" channel="Canal 5">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://media.entutele.com/shows/0a/0a96595a52e38ba209d36b34b1dddc9d.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207050000 -0600" stop="20171207051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20171207051500 -0600" stop="20171207053000 -0600" channel="Canal 5">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://media.entutele.com/shows/0a/0a96595a52e38ba209d36b34b1dddc9d.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207053000 -0600" stop="20171207060000 -0600" channel="Canal 5">
+    <title lang="es">Soy sano</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207060000 -0600" stop="20171207063000 -0600" channel="Canal 5">
+    <title lang="es">Blaze y los Monster Machines</title>
+    <desc lang="es">AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, vivirá aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas(n)</desc>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+  </programme>
+  <programme start="20171207063000 -0600" stop="20171207070000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus Amigos</title>
+    <desc lang="es">El simpático tren azul se llama Thomas, él se convertirá amigo de todos los niños pues compartirán juntos aventuras increíbles(n)</desc>
+    <credits>
+      <actor>Olivia Colman</actor>
+      <actor>John Hasler</actor>
+      <actor>David Bedella</actor>
+      <actor>Jonathan Broadbent</actor>
+      <actor>Nathan Clarke</actor>
+      <actor>Jonathan Forbes</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+    <icon src="https://media.entutele.com/shows/e5/e596ca2118d722090e977e6ea14a9cd6.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/0f/0f6906df12fafe3557f312c2af0eb06b.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/0f/0f6906df12fafe3557f312c2af0eb06b.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/d8/d815c15ae931d1447fcffff1c4895a50.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/d8/d815c15ae931d1447fcffff1c4895a50.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/e3/e383c6d77a39cf11ac24587a18741960.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/e3/e383c6d77a39cf11ac24587a18741960.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207070000 -0600" stop="20171207071500 -0600" channel="Canal 5">
+    <title lang="es">Masha y el Oso</title>
+    <desc lang="es">Basada en un cuento popular ruso, acerca de una niña que se pierde en el bosque y se topa con la casa de un gran oso(n)</desc>
+    <credits>
+      <actor>Alina Kukushkina</actor>
+      <actor>Elsie Fisher</actor>
+      <actor>Boris Kutnevich</actor>
+      <actor>Oleg Kuzukov</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+    <icon src="https://media.entutele.com/shows/39/39f10615b26497dcd13d9e555c800038.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/57/57386429daad950a4795b2363a5fed5e.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/57/57386429daad950a4795b2363a5fed5e.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/0b/0b20320018fa6a3a2f5da5abb9b1b97d.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/0b/0b20320018fa6a3a2f5da5abb9b1b97d.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/5c/5c9bfaeea99f3d0a39f2bd83a91bbe3f.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/5c/5c9bfaeea99f3d0a39f2bd83a91bbe3f.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/19/19e0d5a1ce53222a578ebf65aa1c89c1.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/19/19e0d5a1ce53222a578ebf65aa1c89c1.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207071500 -0600" stop="20171207073000 -0600" channel="Canal 5">
+    <title lang="es">El Pequeño Reino de Ben y Holly</title>
+    <desc lang="es">El pequeño reino es donde viven la princesa Holly y su mejor amigo el duende Ben. Holly es una joven hada quien sigue aprendiendo cómo hacer magia de manera correcta. Algunas veces sus hechizos no funcionan tan bien como quisiera. Ben es un duende y aunque los duendes no hacen magia, son muy buenos para construir cosas, especialmente juguetes(n)</desc>
+    <credits>
+      <actor>Preston Nyman</actor>
+      <actor>Sarah Ann Kennedy</actor>
+      <actor>Sian Taylor</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+    <icon src="https://media.entutele.com/shows/7c/7ce5744df321e92b041333fa5d324da7.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/9b/9b91bb2aba3f21df69e50910b69ca513.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/9b/9b91bb2aba3f21df69e50910b69ca513.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/00/00ac79c8c0edd7bd3865a408299b2790.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/00/00ac79c8c0edd7bd3865a408299b2790.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/d8/d83b5a3a7f8cc3e7181bdafe0918a91a.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/d8/d83b5a3a7f8cc3e7181bdafe0918a91a.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/dd/dd49e6caecfab9de57fc59512009c1d8.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/dd/dd49e6caecfab9de57fc59512009c1d8.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207073000 -0600" stop="20171207080000 -0600" channel="Canal 5">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa!(n)</desc>
+    <credits>
+      <actor>Neville Astley</actor>
+      <actor>Morwenna Banks</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+    <icon src="https://media.entutele.com/shows/ea/eaf523375de8680548a7e34d5e2af177.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/f1/f16c158840b9a16840b09cf59ff23579.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/f1/f16c158840b9a16840b09cf59ff23579.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/f5/f5e26c5f49360ae76c2929e04e0eba8b.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/f5/f5e26c5f49360ae76c2929e04e0eba8b.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/cc/cc46b86796d0fb3e8cb3df60f40fdfdc.png&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/cc/cc46b86796d0fb3e8cb3df60f40fdfdc.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207080000 -0600" stop="20171207083000 -0600" channel="Canal 5">
+    <title lang="es">Pj masks: héroes en pijamas</title>
+    <desc lang="es">Tres niños se convierten en superhéroes durante la noche(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207083000 -0600" stop="20171207084500 -0600" channel="Canal 5">
+    <title lang="es">Piny instituto de nueva york</title>
+    <desc lang="es">En el Instituto PINY somos conscientes de que todos tenemos un talento escondido en nuestro interior y que si no lo alimentamos, no brilla. Que ese talento crece cuando hacemos lo que más nos gusta un  dibujo, cantar una canción, diseñar un vestido, lanzar a canasta¿ y lo compartimos con los demás. Nadie debería frenar nuestro talento si no que deberían hacerlo crecer. Por eso, en PINY no hay libros, aprendemos pintando, bailando o cantando. PINY es la única escuela donde las clases molan más que el recreo y dónde los únicos deberes son hacer mejor lo que más nos gusta.  El talento ya lo llevas dentro. ¡¡Sólo tienes que hacerlo brillar!!(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207084500 -0600" stop="20171207093000 -0600" channel="Canal 5">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <desc lang="es">Timmy Turner es un niño incomprendido, nada popular, a quien sus compañeros suelen molestar. Sus padres no le prestan mucha atención y está al cuidado de, Vicky, su niñera malvada. Es allí donde intervienen Cosmo y Wanda, ¡sus padrinos mágicos! seres que se les asignan a los niños que no tienen una vida feliz, para concederles deseos(n)</desc>
+    <credits>
+      <actor>Tara Strong</actor>
+      <actor>Daran Norris</actor>
+      <actor>Susanne Blakeslee</actor>
+      <actor>Grey Delisle</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados, Series</category>
+    <icon src="https://media.entutele.com/shows/6f/6f9e39abb4171ad85b80cf80462ccd10.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/cf/cf7c0c42d995bb431cd9f92c9677ecfa.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/cf/cf7c0c42d995bb431cd9f92c9677ecfa.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/7f/7fd75bd3bef96da1f1b68884806841bd.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/7f/7fd75bd3bef96da1f1b68884806841bd.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/fc/fc97414a5ce9f6dbb97c600248632c10.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/fc/fc97414a5ce9f6dbb97c600248632c10.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207093000 -0600" stop="20171207103000 -0600" channel="Canal 5">
+    <title lang="es">My Little Pony: la magia de la amistad</title>
+    <desc lang="es">Twilight Sparkle, una poni unicornio, es enviada a Equestria por su mentora la Princesa Celestia, para estudiar la magia de la amistad. Sin embargo, no todas las criaturas en Equestria son pacíficas, y a veces los ponis deben combatir contra brujas, duendes y otros seres que quisieran destruirlos(n)</desc>
+    <credits>
+      <actor>Ashleigh Ball</actor>
+      <actor>Tara Strong</actor>
+      <actor>Andrea Libman</actor>
+      <actor>Nicole Oliver</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+    <icon src="https://media.entutele.com/shows/fb/fba1d8035717a32ae4582402fe18d843.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/f7/f7e92056403c9c54f023b27318aa5600.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/f7/f7e92056403c9c54f023b27318aa5600.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/0c/0c820c1cc6106b0178b76345519a6d11.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/0c/0c820c1cc6106b0178b76345519a6d11.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/7f/7f51a93cba67886679333b0cf735cc46.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/7f/7f51a93cba67886679333b0cf735cc46.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207103000 -0600" stop="20171207113000 -0600" channel="Canal 5">
+    <title lang="es">Los pitufos</title>
+    <desc lang="es">En la aldea de los pitufos todas las casas son setas. Papá Pitufo dirige la aldea, gracias a su mayor edad y su conocimiento de la magia. Él los protegera del malvado Gargamel(n)</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20171207113000 -0600" stop="20171207130000 -0600" channel="Canal 5">
+    <title lang="es">El Chapulín Colorado</title>
+    <desc lang="es">El Chapulín Colorado es un superhéroe poco común que acudirá siempre al llamado de las personas que requieran su ayuda, pero ¿realmente les ayudará a resolver sus problemas o los meterá en más líos?(n)</desc>
+    <credits>
+      <actor>Roberto Gómez Bolaños</actor>
+      <actor>María Antonieta De Las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Carlos Villagrán</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.entutele.com/shows/91/913dbd79e3ddbe11c02321292c34c479.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207130000 -0600" stop="20171207143000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+      <actor>Erica Edwards</actor>
+      <actor>Sebastián Llapur</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+    <icon src="https://media.entutele.com/shows/41/41167c046a82b207d88091deca79fc4f.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/c7/c77c039b4dfff7579c29a0ffeeb0edcd.png&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/c7/c77c039b4dfff7579c29a0ffeeb0edcd.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/57/5777aae69989e87441ab4d0c23b5d7c7.png&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/57/5777aae69989e87441ab4d0c23b5d7c7.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/2b/2bf19ce5674272e807e3980b2c75a36e.png&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/2b/2bf19ce5674272e807e3980b2c75a36e.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207143000 -0600" stop="20171207153000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+    <icon src="https://media.entutele.com/shows/92/92fadd3903ada28a60e185ee6879b3dc.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/64/64595a6412286efbce9f149d5e689b6a.png&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/64/64595a6412286efbce9f149d5e689b6a.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/34/3460879001785b76e2098f5faa4be37e.png&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/34/3460879001785b76e2098f5faa4be37e.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/14/1408a5ed77244f6253fcc27ff9001c43.png&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/14/1408a5ed77244f6253fcc27ff9001c43.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207153000 -0600" stop="20171207173000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+      <actor>Pedro Ortíz de Pinedo</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="https://media.entutele.com/shows/3f/3fbf52a0411e23f3fe46a06ec3aa10dc.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/70/70de44bbd055c9826e935bc82adbab29.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/70/70de44bbd055c9826e935bc82adbab29.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/f7/f7f8cc2335b006978b1ecae835e43478.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/f7/f7f8cc2335b006978b1ecae835e43478.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/97/97b7606021b0ed329fadc46c4742eb71.png&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/97/97b7606021b0ed329fadc46c4742eb71.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207173000 -0600" stop="20171207183000 -0600" channel="Canal 5">
+    <title lang="es">Sam &amp; Cat</title>
+    <desc lang="es">Después de un encuentro fortuito en los Ángeles, Sam Puckett y Cat Valentine, se hacen amigas y compañeras de piso. Sus más locas aventuras inician cuando deciden ser niñeras(n)</desc>
+    <credits>
+      <actor>Steve Hoefer</actor>
+      <actor>Jennette Mccurdy</actor>
+      <actor>Cameron Ocasio</actor>
+      <actor>Ariana Grande</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+  </programme>
+  <programme start="20171207183000 -0600" stop="20171207194500 -0600" channel="Canal 5">
+    <title lang="es">Dragon ball Z</title>
+    <desc lang="es">La lucha de Vegeta y Gokú por recuperar las siete esferas mágicas del poder antes de que caigan en manos de los seres malvados(n)</desc>
+    <credits>
+      <actor>Daisuke Nishio</actor>
+      <actor>Doc Harris</actor>
+      <actor>Sean Schemmel</actor>
+      <actor>Scott McNeil</actor>
+      <actor>Brian Drummond</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <category lang="es">Dibujos Animados</category>
+    <icon src="https://media.entutele.com/shows/b2/b273b6cc436438042490e478eae505f1.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207194500 -0600" stop="20171207220000 -0600" channel="Canal 5">
+    <title lang="es">Copa MX</title>
+    <desc lang="es">El primer torneo oficial mexicano incluye a equipos de todo el país, tanto de la Liga MX como del Ascenso MX. Se formarán seis grupos cuyo objetivo será llegar a la final y disputar el título como "Campeón Nacional"(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol Soccer</category>
+    <icon src="https://media.entutele.com/shows/77/7703a793839e51688b087980c8bbb343.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/cf/cf6ce9995940868bd0b841146b7e58da.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/cf/cf6ce9995940868bd0b841146b7e58da.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/1e/1ebc1203f80edf07ee353c4692ae8323.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/1e/1ebc1203f80edf07ee353c4692ae8323.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/31/3178d9918fdc7f8fadc25e0fa0f6df1c.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/31/3178d9918fdc7f8fadc25e0fa0f6df1c.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+  <programme start="20171207220000 -0600" stop="20171207230000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Crimen, Drama</category>
+    <icon src="https://media.entutele.com/shows/54/54d55bb9eb563b988a21b0b40ccb8058.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/3c/3cefb9abf2d1ed3e683bd90b5fbb2408.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/3c/3cefb9abf2d1ed3e683bd90b5fbb2408.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/c8/c804feb878ac7edd34622d67bbd21b0d.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/c8/c804feb878ac7edd34622d67bbd21b0d.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/ea/ea64d8f3d7ced0c61e7466005a3a2526.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/ea/ea64d8f3d7ced0c61e7466005a3a2526.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&quot;https://media.entutele.com/shows/f9/f9a5755eda846256910953020ffd90cd.jpg&quot;&gt;&lt;img src=&quot;https://media.entutele.com/shows/f9/f9a5755eda846256910953020ffd90cd.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&lt;img src=&quot;" />
+  </programme>
+</tv>
